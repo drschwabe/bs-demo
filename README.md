@@ -22,15 +22,11 @@ The Seller appliction provides a Provider connection to the Buyer that has the e
 Dependencies
 ------------------------------------------------------------------------
 
-This depends on [js-moneysocket](https://github.com/moneysocket/js-moneysocket) which will need to be installed into `node_modules` prior to building this project.
+This depends on [js-moneysocket](https://github.com/moneysocket/js-moneysocket) which will be installed into `node_modules`
 
 `$ git clone https://github.com/moneysocket/bs-demo`
 
 `$ cd bs-demo`
-
-`$ npm install https://github.com/moneysocket/js-moneysocket`
-
-Also, [package.json](package.json) specifies additional dependencies that will need to be installed. From the cloned directory:
 
 `$ npm install`
 
